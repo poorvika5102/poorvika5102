@@ -35,6 +35,15 @@
 
 ---
 
+## 🧠 LeetCode Info
+
+![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
+![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
+![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
+![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
+
+---
+
 ## 📈 GitHub Stats
 ![Poorvika's GitHub stats](https://github-readme-stats.vercel.app/api?username=poorvika5102&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika5102&layout=compact&theme=gruvbox)](https://github.com/poorvika5102)
