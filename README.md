@@ -35,14 +35,18 @@
 
 ---
 
-<h2 align="center">🧠 LeetCode Info</h2>
+<table>
+  <tr>
+    <td><strong>🧠 LeetCode Info</strong></td>
+    <td>
+      <img src="https://github.com/your-username/your-repo/blob/main/path/to/image1.png?raw=true" width="60" height="60" />
+      <img src="https://github.com/your-username/your-repo/blob/main/path/to/image2.png?raw=true" width="60" height="60" />
+      <img src="https://github.com/your-username/your-repo/blob/main/path/to/image3.png?raw=true" width="60" height="60" />
+      <img src="https://github.com/your-username/your-repo/blob/main/path/to/image4.png?raw=true" width="60" height="60" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image1.png?raw=true" width="100" height="100" />
-  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image2.png?raw=true" width="100" height="100" />
-  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image3.png?raw=true" width="100" height="100" />
-  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image4.png?raw=true" width="100" height="100" />
-</p>
 
 ---
 
