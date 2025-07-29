@@ -35,12 +35,14 @@
 
 ---
 
-## 🧠 LeetCode Info
+<h2 align="center">🧠 LeetCode Info</h2>
 
-![LeetCode Badges](https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-5.png)
-![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
-![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
-![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image1.png?raw=true" width="100" height="100" />
+  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image2.png?raw=true" width="100" height="100" />
+  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image3.png?raw=true" width="100" height="100" />
+  <img src="https://github.com/your-username/your-repo/blob/main/path/to/image4.png?raw=true" width="100" height="100" />
+</p>
 
 ---
 
