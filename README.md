@@ -41,8 +41,8 @@
     <td>
       <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-5.png" width="90" height="90" />
       <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-6.png" width="90" height="90" />
-      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/lg25100.png" width="60" height="60" />
-      <img src="https://github.com/your-username/your-repo/blob/main/path/to/image4.png?raw=true" width="60" height="60" />
+      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/lg25100.png" width="90" height="90" />
+      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/lg2550.png" width="90" height="90" />
     </td>
   </tr>
 </table>
