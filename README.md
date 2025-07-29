@@ -39,8 +39,8 @@
   <tr>
     <td><strong>🧠 LeetCode Info</strong></td>
     <td>
-      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-5.png" width="60" height="60" />
-      <img src="https://github.com/your-username/your-repo/blob/main/path/to/image2.png?raw=true" width="60" height="60" />
+      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-5.png" width="90" height="90" />
+      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-6.png" width="90" height="90" />
       <img src="https://github.com/your-username/your-repo/blob/main/path/to/image3.png?raw=true" width="60" height="60" />
       <img src="https://github.com/your-username/your-repo/blob/main/path/to/image4.png?raw=true" width="60" height="60" />
     </td>
