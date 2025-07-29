@@ -37,7 +37,7 @@
 
 ## 🧠 LeetCode Info
 
-![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
+![LeetCode Badges](https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-5.png)
 ![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
 ![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
 ![LeetCode Badges](https://github.com/your-username/your-repo/blob/main/path/to/image.png?raw=true)
