@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Engineer | Building Intelligent Systems That Matter</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poorvika5102&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+NLP;Building+Real-World+AI+Solutions;Full-Stack+AI+Developer;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -133,5 +133,7 @@ Platform connecting citizens with local representatives and tracking public issu
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/poorvika5102/poorvika5102/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/poorvika5102/poorvika5102/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
