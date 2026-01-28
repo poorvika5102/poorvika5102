@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+NLP;Building+Real-World+AI+Solutions;Full-Stack+AI+Developer;Always+Learning+New+Tech" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
+
 
 ## 🚀 About Me
 🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
@@ -13,7 +14,7 @@
 🧠 Passionate about **Machine Learning, Deep Learning & NLP**  
 ⚡ Always exploring new tools to build smarter, scalable systems  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ## 🧠 What I Do
 ✔ Build end-to-end AI systems (data → model → deployment)  
@@ -21,7 +22,7 @@
 ✔ Create full-stack AI applications with modern web tech  
 ✔ Continuously learn & apply cutting-edge AI research  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -34,7 +35,7 @@
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1E90FF?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-708090?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ### 🌐 Web Development & Deployment
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -54,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ### 🤖 Core AI / ML Concepts
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
@@ -65,7 +66,7 @@
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2E8B57?style=for-the-badge)
 ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-6B8E23?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ### 🧠 AI Specializations
 ![Natural Language Processing](https://img.shields.io/badge/NLP-FF1493?style=for-the-badge)
@@ -73,7 +74,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-9400D3?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ### 🔗 AI Integration & AI Literacy
 ![AI in Production](https://img.shields.io/badge/AI%20in%20Production-228B22?style=for-the-badge)
@@ -84,7 +85,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-708090?style=for-the-badge)
 ![AI System Design](https://img.shields.io/badge/AI%20System%20Design-2F4F4F?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -104,21 +105,21 @@ Extracts skills from resumes and matches them with job descriptions using NLP.
 Platform connecting citizens with local representatives and tracking public issues.  
 **Tech:** React, Firebase, REST APIs  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ## 🌱 Currently Learning
 - MLOps & Model Monitoring  
 - LLM Applications & RAG Systems  
 - Scalable AI System Design  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ## 🏅 Certifications & Achievements
 - 🥇 Gold Badge in Python – HackerRank  
 - 🥇 Gold Badge in Problem Solving – HackerRank  
 - 🎓 B.Tech in AI & ML  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ## 📫 Connect With Me
 <p align="left">
@@ -127,7 +128,7 @@ Platform connecting citizens with local representatives and tracking public issu
 </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2&section=header"/>
 
 ⭐️ From [Poorvika](https://github.com/poorvika5102) — Let’s build intelligent systems that make a difference!
 
