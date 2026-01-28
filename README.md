@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Poorvika
 
-![Profile Views](https://komarev.com/ghpvc/?username=poorvika5102&color=skyblue)
+![Profile Views](https://komarev.com/ghpvc/?username=poorvika5102&color=green)
 
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
