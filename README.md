@@ -106,19 +106,6 @@ Platform connecting citizens with local representatives and tracking public issu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorvika5102&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvika5102&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika5102&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 - MLOps & Model Monitoring  
 - LLM Applications & RAG Systems  
@@ -130,13 +117,6 @@ Platform connecting citizens with local representatives and tracking public issu
 - 🥇 Gold Badge in Python – HackerRank  
 - 🥇 Gold Badge in Problem Solving – HackerRank  
 - 🎓 B.Tech in AI & ML  
-
----
-
-## ✨ Beyond Code
-☕ Runs on curiosity and green tea  
-📚 Loves learning how AI can solve human problems  
-🌍 Interested in AI for social good  
 
 ---
 
