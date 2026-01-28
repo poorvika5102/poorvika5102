@@ -84,6 +84,25 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-708090?style=for-the-badge)
 ![AI System Design](https://img.shields.io/badge/AI%20System%20Design-2F4F4F?style=for-the-badge)
 
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Mental Health Companion  
+AI chatbot that detects emotions from journal entries using NLP and provides supportive responses.  
+**Tech:** Python, NLP, Transformers, React, FastAPI  
+
+### 📰 Fake News Detector  
+Machine learning model that classifies news as real or fake using NLP techniques.  
+**Tech:** Scikit-learn, TF-IDF, Logistic Regression  
+
+### 📄 Resume Skill Matcher  
+Extracts skills from resumes and matches them with job descriptions using NLP.  
+**Tech:** spaCy, Regex, Streamlit  
+
+### 🗳️ PoliConnect – Civic Tech Platform  
+Platform connecting citizens with local representatives and tracking public issues.  
+**Tech:** React, Firebase, REST APIs  
 
 ---
 
@@ -100,11 +119,24 @@
 
 ---
 
-## 🌟 Achievements
-🏅 Gold Badge in **Python** & **Problem Solving** on HackerRank  
-🧩 Strong in **Data Structures & Algorithms**  
-💬 Confident communicator & collaborative team player  
-🤝 Open to **AI/ML collaborations and internships**
+## 🌱 Currently Learning
+- MLOps & Model Monitoring  
+- LLM Applications & RAG Systems  
+- Scalable AI System Design  
+
+---
+
+## 🏅 Certifications & Achievements
+- 🥇 Gold Badge in Python – HackerRank  
+- 🥇 Gold Badge in Problem Solving – HackerRank  
+- 🎓 B.Tech in AI & ML  
+
+---
+
+## ✨ Beyond Code
+☕ Runs on curiosity and green tea  
+📚 Loves learning how AI can solve human problems  
+🌍 Interested in AI for social good  
 
 ---
 
@@ -115,4 +147,6 @@
 </a>
 </p>
 
+---
 
+⭐️ From [Poorvika](https://github.com/poorvika5102) — Let’s build intelligent systems that make a difference!
