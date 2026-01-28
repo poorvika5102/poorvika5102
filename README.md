@@ -130,3 +130,8 @@ Platform connecting citizens with local representatives and tracking public issu
 ---
 
 ⭐️ From [Poorvika](https://github.com/poorvika5102) — Let’s build intelligent systems that make a difference!
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/poorvika5102/poorvika5102/blob/output/github-contribution-grid-snake.svg)
+
