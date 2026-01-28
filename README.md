@@ -38,28 +38,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td><strong>🧠 LeetCode Info</strong></td>
-    <td>
-      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-5.png" width="90" height="90" />
-      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/dcc-2025-6.png" width="90" height="90" />
-      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/lg25100.png" width="90" height="90" />
-      <img src="https://github.com/poorvika5102/poorvika5102/blob/main/lg2550.png" width="90" height="90" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-## 📈 GitHub Stats
-![Poorvika's GitHub stats](https://github-readme-stats.vercel.app/api?username=poorvika5102&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika5102&layout=compact&theme=gruvbox)](https://github.com/poorvika5102)
-
----
-
-
 ## 🌟 Highlights
 - 🏅 Gold Badge in Python & Problem Solving on HackerRank  
 - 🧩 Strong foundation in Algorithms & Data Structures 
