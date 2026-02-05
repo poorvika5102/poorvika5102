@@ -77,19 +77,6 @@ Platform connecting citizens with local representatives and tracking public issu
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorvika5102&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvika5102&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika5102&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:9333ea&height=2"/>
-
 ## 📈 Contribution Activity
 
 <p align="center">
